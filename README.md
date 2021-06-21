@@ -1,2 +1,2 @@
-# Letris
-Letris Game. Available in Spanish, English and Catalan.
+# UAB-Practica-MP
+UAB - Metodologia de la programació - Pràctica 19/20

@@ -1,2 +1,2 @@
-# UAB-Practica-MP
-UAB - Metodologia de la programació - Pràctica 19/20
+# Letris Game
+Letris Game developed in C++. Usable in Spanish, English and Catalan.
